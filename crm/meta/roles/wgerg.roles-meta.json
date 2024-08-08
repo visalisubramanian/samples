@@ -1,0 +1,11 @@
+{
+  "display_label": "wgerg",
+  "forecast_manager": null,
+  "share_with_peers": false,
+  "api_name": "wgerg",
+  "name": "wgerg",
+  "description": null,
+  "reporting_to": {
+    "api_name": "Manager"
+  }
+}

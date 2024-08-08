@@ -1,0 +1,21 @@
+{
+    "resource_type": "specific",
+    "resources" : [
+        {
+            "resource_type" : "profiles",
+            "resources" : [
+                {
+                    "api_name" : "test"
+                }
+            ]
+        },
+        {
+            "resource_type" : "roles",
+            "resources" : [
+                {
+                    "api_name" : "wgerg"
+                }
+            ]
+        }
+    ]
+}
